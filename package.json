@@ -22,12 +22,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/VladislavMac/BlackWeather"
+		"url": "https://github.com/VladislavMac/WhiteWeather"
 	},
 	"bugs": {
-		"url": "https://github.com/VladislavMac/BlackWeather/issues"
+		"url": "https://github.com/VladislavMac/WhiteWeather/issues"
 	},
-	"homepage": "https://github.com/VladislavMac/BlackWeather/blob/main/README.md",
+	"homepage": "https://github.com/VladislavMac/WhiteWeather/blob/main/README.md",
 	"keywords": [
 		"Vscode",
 		"Theme",
