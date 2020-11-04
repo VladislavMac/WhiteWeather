@@ -37,7 +37,7 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 ### In version 0.1.0, Main files created, screenshots taken, publication on github
 
-### More details here [here](https://github.com/VladislavMac/WhiteWeather/blob/main/CHANGELOG.md 'CHANGELOG')
+ More details here [here](https://github.com/VladislavMac/WhiteWeather/blob/main/CHANGELOG.md 'CHANGELOG')
 
 <br>
 
