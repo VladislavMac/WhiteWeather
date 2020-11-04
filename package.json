@@ -1,5 +1,5 @@
 {
-	"name": "witeweather",
+	"name": "whiteweather",
 	"displayName": "WhiteWeather",
 	"description": "White 🤍 theme for VScode from BW",
 	"version": "0.1.0",
@@ -10,7 +10,7 @@
 		"Themes"
 	],
 	"publisher": "BW",
-	"icon": "cloud2.png",
+	"icon": "WWcloud.png",
 	"contributes": {
 		"themes": [
 			{
@@ -39,7 +39,8 @@
 		"Github theme",
 		"Git Hub",
 		"GitHub",
-		"weather"
+		"weather",
+		"white theme"
 		],
 	"author": "Vladislav Mac <mvvminsk@gmail.com>",
 	"license": "MIT",
