@@ -26,7 +26,11 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 
 ## Screenshot <br>
 
+### JavaScript
 ![screenshot](https://i.ibb.co/rHWX7qY/wwscreen-JS.png)
+### Css
+![screenshot](https://i.ibb.co/PrvNwK8/wwscreen-CSS.png)
+
 
 ## What's new in version 0.1.0?
 <br>
